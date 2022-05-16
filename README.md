@@ -1,8 +1,9 @@
 # 👋 Hi there, @kitswas here
-- Please communicate with me in English *only*
+
 - Still a student
 
 ## ⌨ My skillset includes
+
 - C
 - C++
 - editing English text
@@ -13,8 +14,11 @@
 - SQL
 
 ## ✨ I wish to
+
 - contribute to open-source. I respect all who have put in time and effort creating the incredible software I use.  
 Special thanks to [**Mozilla**](https://www.mozilla.org/en-GB/) for making my life better.  
+
+## GitHub Stats
 
 [![My GitHub Stats](https://github-readme-stats-kitswas.vercel.app/api?username=kitswas&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
