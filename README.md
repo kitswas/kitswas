@@ -1,6 +1,7 @@
 # 👋 Hi there, @kitswas here
 
 - Still a student
+- Love ~debugging~ the feeling of a job well done after destroying bugs
 
 ## ⌨ My skillset includes
 
