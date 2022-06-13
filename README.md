@@ -1,7 +1,7 @@
 # 👋 Hi there, @kitswas here
 
 - Still a student
-- Love ~debugging~ the feeling of a job well done after destroying bugs
+- Love ~debugging~ hunting bugs and the feeling of a job well done after destroying bugs
 - Reading well-written documentation is a pleasure.
 
 ## ⌨ My skillset includes
