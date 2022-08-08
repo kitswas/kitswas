@@ -22,7 +22,8 @@ Special thanks to [**Mozilla**](https://www.mozilla.org/en-GB/) for making my li
 
 ## GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats-kitswas.vercel.app/api?username=kitswas&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub Stats](https://raw.githubusercontent.com/kitswas/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![My GitHub Stats](https://raw.githubusercontent.com/kitswas/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 [![Top Langs](https://github-readme-stats-7vlsc5n0x-kitswas.vercel.app/api/top-langs/?username=kitswas&count_private=true&langs_count=10&layout=compact&p=0.5&q=0.809015)](https://github.com/anuraghazra/github-readme-stats)
 
