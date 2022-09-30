@@ -29,7 +29,7 @@ Special thanks to [**Mozilla**](https://www.mozilla.org/en-GB/) for making my li
 
 [![My GitHub Stats](https://raw.githubusercontent.com/kitswas/github-stats/master/generated/overview.svg)](https://github.com/jstrieb/github-stats)
 
-[![Top Langs](https://github-readme-stats-7vlsc5n0x-kitswas.vercel.app/api/top-langs/?username=kitswas&count_private=true&langs_count=10&layout=compact&hide=Jupyter%20Notebook&p=0.314159&q=0.314159)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-kitswas.vercel.app/api/top-langs/?username=kitswas&count_private=true&langs_count=10&layout=compact&hide=Jupyter%20Notebook&p=0.314159&q=0.314159)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=kitswas)](https://github.com/ryo-ma/github-profile-trophy)
 
