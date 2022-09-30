@@ -1,31 +1,35 @@
 # 👋 Hi there, @kitswas here
 
 - Still a student
-- Love ~debugging~ hunting bugs and the feeling of a job well done after destroying bugs
+- Love ~~debugging~~ hunting bugs and the feeling of a job well done after destroying bugs
 - Reading well-written documentation is a pleasure.
 
-## ⌨ My skillset includes
+## ⌨ My tech toolkit includes
 
 - C
 - C++
+- CSS
 - editing English text
 - HTML
 - Java
+- JavaScript
 - Python
 - R
+- Rust
 - SQL
 
 ## ✨ I wish to
 
-- contribute to open-source. I respect all who have put in time and effort creating the incredible software I use.  
+- contribute _more_ to open-source. I respect all who have put in time and effort creating the incredible software I use.  
 Special thanks to [**Mozilla**](https://www.mozilla.org/en-GB/) for making my life better.  
 
 ## GitHub Stats
 
-![My GitHub Stats](https://raw.githubusercontent.com/kitswas/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![My GitHub Stats](https://raw.githubusercontent.com/kitswas/github-stats/master/generated/overview.svg#gh-light-mode-only)
+[![My GitHub Stats](https://raw.githubusercontent.com/kitswas/github-stats/master/generated/overview.svg)](https://github.com/jstrieb/github-stats)
 
-[![Top Langs](https://github-readme-stats-7vlsc5n0x-kitswas.vercel.app/api/top-langs/?username=kitswas&count_private=true&langs_count=10&layout=compact&p=0.5&q=0.809015)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-7vlsc5n0x-kitswas.vercel.app/api/top-langs/?username=kitswas&count_private=true&langs_count=10&layout=compact&hide=Jupyter%20Notebook&p=0.314159&q=0.314159)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=kitswas)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 kitswas/kitswas is a ✨ unique ✨ repository because its `README.md` (this file) appears on your GitHub profile.
