@@ -34,6 +34,8 @@ Special thanks to [**Mozilla**](https://www.mozilla.org/en-GB/) for making my li
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=kitswas)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Contributions in 3D](/profile-3d-contrib/profile-season-animate.svg)](https://github.com/marketplace/actions/github-profile-3d-contrib)
+
 </div>
 
 <!---
