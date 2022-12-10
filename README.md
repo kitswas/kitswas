@@ -2,7 +2,8 @@
 
 - Still a student
 - Love ~~debugging~~ hunting bugs and the feeling of a job well done after destroying bugs
-- Reading well-written documentation is a pleasure.
+- Reading well-written documentation is a pleasure
+- Created a [Guide to Git](https://kitswas.github.io/git-for-all/) for everyone
 
 ## ⌨ My tech toolkit includes
 
