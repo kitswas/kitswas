@@ -29,11 +29,13 @@ Special thanks to [**Mozilla**](https://www.mozilla.org/en-GB/) for making my li
 
 <div style="display: flex; flex-wrap: wrap;">
 
+[![Metrics](https://metrics.lecoq.io/kitswas?template=classic&base.indepth=true&repositories.forks=true&notable=1&achievements=1&stackoverflow=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=true&notable.types=commit&notable.self=false&stackoverflow=false&stackoverflow.user=8659747&stackoverflow.sections=answers-top%2C%20questions-top&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=Asia%2FKolkata&config.octicon=true)](https://metrics.lecoq.io/)
+
 [![My GitHub Stats](https://raw.githubusercontent.com/kitswas/github-stats/master/generated/overview.svg)](https://github.com/jstrieb/github-stats)
 
 [![Top Langs](https://github-readme-stats-kitswas.vercel.app/api/top-langs/?username=kitswas&count_private=true&langs_count=10&layout=compact&hide=Jupyter%20Notebook%2CGLSL&p=0.314159&q=0.314159)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=kitswas)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![Trophies](https://github-profile-trophy.vercel.app/?username=kitswas)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 [![Contributions in 3D](/profile-3d-contrib/profile-season-animate.svg)](https://github.com/marketplace/actions/github-profile-3d-contrib)
 
