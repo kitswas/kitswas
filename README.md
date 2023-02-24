@@ -1,7 +1,8 @@
 # 👋 Hi there, @kitswas here
 
 - Still a student
-- Love ~~debugging~~ hunting bugs and the feeling of a job well done after destroying bugs
+- Find joy in fixing things
+- Love ~~debugging~~ hunting down bugs
 - Reading well-written documentation is a pleasure
 - Created a [Guide to Git](https://kitswas.github.io/git-for-all/) for everyone
 
