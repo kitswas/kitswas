@@ -26,7 +26,7 @@
 Special thanks to [**Mozilla**](https://www.mozilla.org/en-GB/) for making my life better.  
 - let more people see [**what inspires me**](https://github.com/kitswas/what-inspires-me/blob/master/topics.md).
 
-## Stats
+## 📈 Stats
 
 <div style="display: flex; flex-wrap: wrap;">
 
@@ -50,5 +50,11 @@ Special thanks to [**Mozilla**](https://www.mozilla.org/en-GB/) for making my li
 kitswas/kitswas is a ✨ unique ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## 🤙 Contact
+
+Since you have scrolled down this far, here's my Telegram id for you - It's the same as my Github username.  
+_Direct link not provided to keep away web scrapers._ ;)  
+Kindly introduce yourself and the organisation you represent if you contact me. Scammers these days are becoming increasingly sophisticated.
 
 ![](https://hit.yhype.me/github/profile?user_id=90329875)
