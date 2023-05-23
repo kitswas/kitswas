@@ -6,6 +6,8 @@
 - Reading well-written documentation is a pleasure
 - Created a [Guide to Git](https://kitswas.github.io/git-for-all/) for everyone
 
+Show some ❤️ by starring some of my repositories!
+
 ## ⌨ My tech toolkit includes
 
 - C
