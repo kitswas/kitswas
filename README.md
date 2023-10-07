@@ -8,24 +8,10 @@
 
 Show some ❤️ by starring some of my repositories!
 
-## ⌨ My tech toolkit includes
-
-- C
-- C++
-- CSS
-- editing English text
-- HTML
-- Java
-- JavaScript
-- Python
-- R
-- Rust
-- SQL
-
 ## ✨ I wish to
 
-- contribute _more_ to open-source. I respect all who have put in time and effort creating the incredible software I use.  
-Special thanks to [**Mozilla**](https://www.mozilla.org/en-GB/) for making my life better.  
+- contribute _more_ to open-source. I respect all who have put in time and effort to create the incredible software I use.  
+Special thanks to [**Mozilla**](https://www.mozilla.org/en-GB/) for Firefox.  
 - let more people see [**what inspires me**](https://github.com/kitswas/what-inspires-me/blob/master/topics.md).
 
 ## 📈 Stats
@@ -55,8 +41,8 @@ You can click the Preview link to take a look at your changes.
 
 ## 🤙 Contact
 
-Since you have scrolled down this far, here's my Telegram id for you - It's the same as my Github username.  
+Since you have scrolled down this far, here's my Telegram ID for you - It's the same as my GitHub username.  
 _Direct link not provided to keep away web scrapers._ ;)  
-Kindly introduce yourself and the organisation you represent if you contact me. Scammers these days are becoming increasingly sophisticated.
+Please introduce yourself and the organisation _(if any)_ you represent if you contact me. Scammers these days are becoming increasingly sophisticated.
 
 ![](https://hit.yhype.me/github/profile?user_id=90329875)
