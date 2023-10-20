@@ -11,7 +11,7 @@ Show some ❤️ by starring some of my repositories!
 ## ✨ I wish to
 
 - contribute _more_ to open-source. I respect all who have put in time and effort to create the incredible software I use.  
-Special thanks to [**Mozilla**](https://www.mozilla.org/en-GB/) for Firefox.  
+Special thanks to [**Mozilla**](https://www.mozilla.org/en-GB/) for Firefox and Relay.  
 - let more people see [**what inspires me**](https://github.com/kitswas/what-inspires-me/blob/master/topics.md).
 
 ## 📈 Stats
