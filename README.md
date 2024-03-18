@@ -18,8 +18,6 @@ Special thanks to [**Mozilla**](https://www.mozilla.org/en-GB/) for Firefox and 
 
 <div style="display: flex; flex-wrap: wrap;" align="center">
 
-[![Metrics - refresh if you are seeing this text](https://metrics.lecoq.io/kitswas?template=classic&base.indepth=true&repositories.forks=true&notable=1&achievements=1&stackoverflow=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=true&notable.types=commit&notable.self=false&stackoverflow=false&stackoverflow.user=8659747&stackoverflow.sections=answers-top%2C%20questions-top&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=Asia%2FKolkata&config.octicon=true)](https://metrics.lecoq.io/)
-
 [![StackOverflow profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/8659747?theme=default&website=true&location=true)](https://stackoverflow.com/users/8659747/kitswas)
   
 [![My GitHub Stats](https://raw.githubusercontent.com/kitswas/github-stats/master/generated/overview.svg)](https://github.com/jstrieb/github-stats)
