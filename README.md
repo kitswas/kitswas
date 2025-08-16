@@ -4,7 +4,6 @@
 - Find joy in fixing things
 - Love ~~debugging~~ hunting down bugs
 - Reading well-written documentation is a pleasure
-- Created a [Guide to Git](https://kitswas.github.io/git-for-all/) for everyone
 
 Show some ❤️ by starring some of my repositories!
 
@@ -12,6 +11,11 @@ Show some ❤️ by starring some of my repositories!
 
 - contribute _more_ to open-source. I respect all who have put in time and effort to create the incredible software I use.
 - let more people see [**what inspires me**](https://github.com/kitswas/what-inspires-me/blob/master/topics.md).
+
+## </> Some of my work
+
+- [VirtualGamepad](https://kitswas.github.io/VirtualGamePad/)
+- A [Guide to Git](https://kitswas.github.io/git-for-all/) for everyone, including non-developers
 
 ## 📈 Stats
 
