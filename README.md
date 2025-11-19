@@ -1,6 +1,7 @@
 # 👋 Hi there, @kitswas here
 
 - Still a student
+- Early adopter
 - Find joy in fixing things
 - Love ~~debugging~~ hunting down bugs
 - Reading well-written documentation is a pleasure
