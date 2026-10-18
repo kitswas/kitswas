@@ -16,6 +16,8 @@ Show some ❤️ by starring some of my repositories!
 
 - [VirtualGamepad](https://kitswas.github.io/VirtualGamePad/)
 - A [Guide to Git](https://kitswas.github.io/git-for-all/) for everyone, including non-developers
+- [Dashboard for F-Droid app store metrics and live Badges for apps](https://fdroid-metrics.streamlit.app/).
+- [Multi-repo Star History charts that just work](https://github.com/kitswas/generate-star-history), even after GitHub's [June 30, 2026 API restrictions](https://github.blog/changelog/2026-06-30-upcoming-access-restrictions-to-public-api-endpoints-and-ui-views/). Set and forget.
 
 ## 📈 Stats
 
